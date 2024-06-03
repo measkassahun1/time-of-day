@@ -7,3 +7,6 @@ A web page that uses JavaScript to determine the current hour,
 	Afternoon (12 noon to 6pm)
 	Evening (6pm to 11pm)
 	Night (11pm to 5am)
+
+Website URL: https://measkassahun1.github.io/time-of-day/
+
